@@ -38,8 +38,8 @@ Pastikan sudah punya ini dulu:
 #### 1. Clone repositorinya dulu
 
 ```sh
-git clone https://www.github.com/fwwz-id/uni440-s2as2
-cd uni440-s2as2
+git clone https://www.github.com/ghilman-unpad/SIC-Stage2-UNI440
+cd SIC-Stage2-UNI440
 ```
 
 #### 2. Jalankan API-nya
