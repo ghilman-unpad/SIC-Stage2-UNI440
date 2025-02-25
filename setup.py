@@ -5,11 +5,11 @@ def read_requirements():
         return [line.strip() for line in f if line and not line.startswith("#")]
     
 setup(
-    name="uni436-api",
+    name="uni440-api",
     version="0.1",
     packages=["api"],
     package_dir={
-        "uni436-api": "api"
+        "uni440-api": "api"
     },
     requires=read_requirements(),
 )
